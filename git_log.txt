@@ -1,0 +1,52 @@
+commit 6b217ea97180b24c49058fea2ba140cce2b87a47
+Merge: feaced6 ec2aa0a
+Author: nmontales <nhadweh@go.pasadena.edu>
+Date:   Wed Sep 4 15:17:46 2024 -0700
+
+    resolved merge conflict
+
+commit ec2aa0adb282330e16e909212f1089df7d5c95c5
+Author: nmontales <nhadweh@go.pasadena.edu>
+Date:   Wed Sep 4 15:15:03 2024 -0700
+
+    added favorite movie to index.html
+
+commit feaced658ab8bfbb172f80d4ef629e05d5bec7ea
+Author: nmontales <nhadweh@go.pasadena.edu>
+Date:   Wed Sep 4 15:13:34 2024 -0700
+
+    added onto index.html
+
+commit 36708bf6dbbb719365d377835e81aa6d4bb00c54
+Merge: 8f1afd2 8657f49
+Author: nmontales <nhadweh@go.pasadena.edu>
+Date:   Wed Sep 4 15:01:42 2024 -0700
+
+    Merge branch 'main' of https://github.com/nmontales/CS3338-second-project
+
+commit 8f1afd20af53407ba8bbde4d0ef831973487953f
+Author: nmontales <nhadweh@go.pasadena.edu>
+Date:   Tue Sep 3 20:20:53 2024 -0700
+
+    added readme
+
+commit 8657f498354b61e4316334e5e174594d5b36fa92
+Merge: 1d2bfc0 a05182c
+Author: nmontales <133808600+nmontales@users.noreply.github.com>
+Date:   Tue Sep 3 20:17:35 2024 -0700
+
+    Merge pull request #1 from nmontales/info-fill
+    
+    edited index.html
+
+commit a05182cae72020e65cb9adecfe7f48cf059eb087
+Author: nmontales <nhadweh@go.pasadena.edu>
+Date:   Tue Sep 3 20:04:50 2024 -0700
+
+    edited index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
